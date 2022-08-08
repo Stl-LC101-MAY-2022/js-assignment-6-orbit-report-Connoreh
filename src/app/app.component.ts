@@ -53,3 +53,4 @@ export class AppComponent {
 
 
 }
+console.log(Satellite)

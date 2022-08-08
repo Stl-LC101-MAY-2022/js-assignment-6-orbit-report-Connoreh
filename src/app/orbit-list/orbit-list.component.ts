@@ -28,6 +28,6 @@ export class OrbitListComponent implements OnInit {
 		});
 	}
 }
-// console.log(Satellite)
+// console.log(satellites.isSpaceDebris())
 // console.log(satellite.isSpaceDebris())
 
